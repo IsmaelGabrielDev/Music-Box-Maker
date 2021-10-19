@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?vxvrhn');
+  src:  url('fonts/icomoon.eot?vxvrhn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?vxvrhn') format('truetype'),
+    url('fonts/icomoon.woff?vxvrhn') format('woff'),
+    url('fonts/icomoon.svg?vxvrhn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook1:before {
+  content: "\e91a";
+}
+.icon-facebook2:before {
+  content: "\e91b";
+}
+.icon-man-hair:before {
+  content: "\e915";
+}
+.icon-man-hair2:before {
+  content: "\e916";
+}
+.icon-man-hair3:before {
+  content: "\e917";
+}
+.icon-penteado:before {
+  content: "\e918";
+}
+.icon-bigode:before {
+  content: "\e900";
+}
+.icon-pente:before {
+  content: "\e901";
+}
+.icon-navalha:before {
+  content: "\e902";
+}
+.icon-barbeador:before {
+  content: "\e903";
+}
+.icon-secador-de-cabelo:before {
+  content: "\e904";
+}
+.icon-cadeira:before {
+  content: "\e905";
+}
+.icon-penteado1:before {
+  content: "\e906";
+}
+.icon-creme-_1:before {
+  content: "\e907";
+}
+.icon-creme1:before {
+  content: "\e908";
+}
+.icon-arrow-up:before {
+  content: "\e919";
+}
+.icon-phone:before {
+  content: "\e909";
+}
+.icon-close:before {
+  content: "\e90a";
+}
+.icon-cosmetic:before {
+  content: "\e90b";
+}
+.icon-facebook:before {
+  content: "\e90c";
+}
+.icon-instagram:before {
+  content: "\e90d";
+}
+.icon-mail:before {
+  content: "\e90e";
+}
+.icon-map-pin:before {
+  content: "\e90f";
+}
+.icon-menu:before {
+  content: "\e910";
+}
+.icon-trim:before {
+  content: "\e911";
+}
+.icon-whatsapp:before {
+  content: "\e912";
+}
+.icon-woman-hair:before {
+  content: "\e913";
+}
+.icon-youtube:before {
+  content: "\e914";
+}
